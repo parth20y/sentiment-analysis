@@ -1,0 +1,501 @@
+post_id,text,subreddit,upvotes,sentiment,confidence
+0,Exceeded my expectations completely,sports,263,POSITIVE,0.9993
+1,Great customer service experience,sports,873,POSITIVE,0.9999
+2,Not worth the money at all,gaming,607,NEGATIVE,0.9998
+3,Exceeded my expectations completely,technology,412,POSITIVE,0.9993
+4,"Amazing quality, highly recommend",sports,22,POSITIVE,0.9999
+5,Worst thing I have ever bought,sports,322,NEGATIVE,0.9998
+6,"Very disappointing, would not buy again",technology,252,NEGATIVE,0.9996
+7,Exceeded my expectations completely,technology,283,POSITIVE,0.9993
+8,This is absolutely terrible,gaming,57,NEGATIVE,0.9996
+9,Great customer service experience,sports,349,POSITIVE,0.9999
+10,Totally broken on arrival,gaming,495,NEGATIVE,0.9994
+11,Worst thing I have ever bought,technology,304,NEGATIVE,0.9998
+12,"Amazing quality, highly recommend",gaming,422,POSITIVE,0.9999
+13,"Amazing quality, highly recommend",sports,335,POSITIVE,0.9999
+14,Exceeded my expectations completely,sports,863,POSITIVE,0.9993
+15,Totally broken on arrival,technology,169,NEGATIVE,0.9994
+16,I love this product so much!,sports,543,POSITIVE,0.9999
+17,Not worth the money at all,sports,313,NEGATIVE,0.9998
+18,Not worth the money at all,news,25,NEGATIVE,0.9998
+19,Not worth the money at all,sports,552,NEGATIVE,0.9998
+20,Worst thing I have ever bought,sports,794,NEGATIVE,0.9998
+21,Pretty decent experience overall,technology,265,POSITIVE,0.9999
+22,"Amazing quality, highly recommend",sports,986,POSITIVE,0.9999
+23,Pretty decent experience overall,gaming,533,POSITIVE,0.9999
+24,"Very disappointing, would not buy again",gaming,725,NEGATIVE,0.9996
+25,"Very disappointing, would not buy again",gaming,828,NEGATIVE,0.9996
+26,This is absolutely terrible,news,129,NEGATIVE,0.9996
+27,Exceeded my expectations completely,sports,843,POSITIVE,0.9993
+28,"Very disappointing, would not buy again",technology,518,NEGATIVE,0.9996
+29,"Very disappointing, would not buy again",sports,480,NEGATIVE,0.9996
+30,I love this product so much!,news,667,POSITIVE,0.9999
+31,"Amazing quality, highly recommend",technology,256,POSITIVE,0.9999
+32,"Very disappointing, would not buy again",sports,560,NEGATIVE,0.9996
+33,Great customer service experience,gaming,41,POSITIVE,0.9999
+34,Exceeded my expectations completely,technology,289,POSITIVE,0.9993
+35,Totally broken on arrival,technology,825,NEGATIVE,0.9994
+36,Pretty decent experience overall,gaming,438,POSITIVE,0.9999
+37,Worst thing I have ever bought,gaming,774,NEGATIVE,0.9998
+38,Pretty decent experience overall,news,562,POSITIVE,0.9999
+39,This is absolutely terrible,technology,220,NEGATIVE,0.9996
+40,Exceeded my expectations completely,gaming,945,POSITIVE,0.9993
+41,This is absolutely terrible,sports,41,NEGATIVE,0.9996
+42,This is absolutely terrible,sports,382,NEGATIVE,0.9996
+43,This is absolutely terrible,technology,321,NEGATIVE,0.9996
+44,Pretty decent experience overall,gaming,793,POSITIVE,0.9999
+45,This is absolutely terrible,gaming,624,NEGATIVE,0.9996
+46,"Very disappointing, would not buy again",sports,181,NEGATIVE,0.9996
+47,"Amazing quality, highly recommend",technology,68,POSITIVE,0.9999
+48,This is absolutely terrible,news,330,NEGATIVE,0.9996
+49,"Amazing quality, highly recommend",sports,884,POSITIVE,0.9999
+50,Not worth the money at all,technology,44,NEGATIVE,0.9998
+51,Great customer service experience,news,505,POSITIVE,0.9999
+52,Great customer service experience,gaming,220,POSITIVE,0.9999
+53,Totally broken on arrival,technology,358,NEGATIVE,0.9994
+54,Worst thing I have ever bought,gaming,778,NEGATIVE,0.9998
+55,I love this product so much!,sports,641,POSITIVE,0.9999
+56,"Amazing quality, highly recommend",gaming,592,POSITIVE,0.9999
+57,Not worth the money at all,sports,793,NEGATIVE,0.9998
+58,I love this product so much!,news,778,POSITIVE,0.9999
+59,"Very disappointing, would not buy again",news,747,NEGATIVE,0.9996
+60,"Very disappointing, would not buy again",sports,115,NEGATIVE,0.9996
+61,This is absolutely terrible,technology,488,NEGATIVE,0.9996
+62,Totally broken on arrival,sports,957,NEGATIVE,0.9994
+63,I love this product so much!,news,453,POSITIVE,0.9999
+64,I love this product so much!,gaming,129,POSITIVE,0.9999
+65,Exceeded my expectations completely,sports,86,POSITIVE,0.9993
+66,"Very disappointing, would not buy again",sports,82,NEGATIVE,0.9996
+67,This is absolutely terrible,gaming,697,NEGATIVE,0.9996
+68,Great customer service experience,gaming,972,POSITIVE,0.9999
+69,Pretty decent experience overall,gaming,559,POSITIVE,0.9999
+70,Pretty decent experience overall,gaming,938,POSITIVE,0.9999
+71,"Amazing quality, highly recommend",sports,720,POSITIVE,0.9999
+72,Pretty decent experience overall,news,43,POSITIVE,0.9999
+73,"Very disappointing, would not buy again",news,790,NEGATIVE,0.9996
+74,"Very disappointing, would not buy again",gaming,600,NEGATIVE,0.9996
+75,"Very disappointing, would not buy again",gaming,843,NEGATIVE,0.9996
+76,Not worth the money at all,gaming,823,NEGATIVE,0.9998
+77,Worst thing I have ever bought,technology,259,NEGATIVE,0.9998
+78,This is absolutely terrible,news,727,NEGATIVE,0.9996
+79,I love this product so much!,sports,483,POSITIVE,0.9999
+80,Not worth the money at all,gaming,264,NEGATIVE,0.9998
+81,This is absolutely terrible,news,908,NEGATIVE,0.9996
+82,This is absolutely terrible,gaming,199,NEGATIVE,0.9996
+83,"Amazing quality, highly recommend",sports,545,POSITIVE,0.9999
+84,Exceeded my expectations completely,sports,246,POSITIVE,0.9993
+85,This is absolutely terrible,gaming,371,NEGATIVE,0.9996
+86,Not worth the money at all,gaming,346,NEGATIVE,0.9998
+87,This is absolutely terrible,gaming,679,NEGATIVE,0.9996
+88,Totally broken on arrival,gaming,252,NEGATIVE,0.9994
+89,Pretty decent experience overall,technology,141,POSITIVE,0.9999
+90,Worst thing I have ever bought,news,452,NEGATIVE,0.9998
+91,I love this product so much!,sports,820,POSITIVE,0.9999
+92,This is absolutely terrible,sports,571,NEGATIVE,0.9996
+93,Exceeded my expectations completely,technology,72,POSITIVE,0.9993
+94,Not worth the money at all,gaming,385,NEGATIVE,0.9998
+95,Totally broken on arrival,gaming,985,NEGATIVE,0.9994
+96,I love this product so much!,sports,826,POSITIVE,0.9999
+97,"Very disappointing, would not buy again",gaming,482,NEGATIVE,0.9996
+98,Pretty decent experience overall,sports,357,POSITIVE,0.9999
+99,Not worth the money at all,gaming,91,NEGATIVE,0.9998
+100,Worst thing I have ever bought,gaming,418,NEGATIVE,0.9998
+101,I love this product so much!,technology,890,POSITIVE,0.9999
+102,Exceeded my expectations completely,gaming,342,POSITIVE,0.9993
+103,This is absolutely terrible,technology,979,NEGATIVE,0.9996
+104,Exceeded my expectations completely,sports,255,POSITIVE,0.9993
+105,I love this product so much!,news,289,POSITIVE,0.9999
+106,I love this product so much!,gaming,976,POSITIVE,0.9999
+107,Not worth the money at all,sports,368,NEGATIVE,0.9998
+108,Pretty decent experience overall,gaming,689,POSITIVE,0.9999
+109,"Amazing quality, highly recommend",gaming,30,POSITIVE,0.9999
+110,Great customer service experience,news,444,POSITIVE,0.9999
+111,"Very disappointing, would not buy again",technology,63,NEGATIVE,0.9996
+112,"Very disappointing, would not buy again",technology,50,NEGATIVE,0.9996
+113,Worst thing I have ever bought,sports,793,NEGATIVE,0.9998
+114,Exceeded my expectations completely,technology,291,POSITIVE,0.9993
+115,Totally broken on arrival,gaming,862,NEGATIVE,0.9994
+116,Great customer service experience,gaming,972,POSITIVE,0.9999
+117,Great customer service experience,gaming,645,POSITIVE,0.9999
+118,Not worth the money at all,news,123,NEGATIVE,0.9998
+119,This is absolutely terrible,technology,172,NEGATIVE,0.9996
+120,Exceeded my expectations completely,news,752,POSITIVE,0.9993
+121,"Very disappointing, would not buy again",sports,683,NEGATIVE,0.9996
+122,"Amazing quality, highly recommend",news,524,POSITIVE,0.9999
+123,Great customer service experience,gaming,562,POSITIVE,0.9999
+124,Not worth the money at all,news,271,NEGATIVE,0.9998
+125,This is absolutely terrible,technology,204,NEGATIVE,0.9996
+126,Totally broken on arrival,gaming,23,NEGATIVE,0.9994
+127,Pretty decent experience overall,gaming,757,POSITIVE,0.9999
+128,Not worth the money at all,technology,166,NEGATIVE,0.9998
+129,I love this product so much!,news,873,POSITIVE,0.9999
+130,This is absolutely terrible,technology,847,NEGATIVE,0.9996
+131,This is absolutely terrible,news,882,NEGATIVE,0.9996
+132,Great customer service experience,gaming,764,POSITIVE,0.9999
+133,Great customer service experience,news,57,POSITIVE,0.9999
+134,Worst thing I have ever bought,news,550,NEGATIVE,0.9998
+135,I love this product so much!,news,477,POSITIVE,0.9999
+136,Not worth the money at all,technology,750,NEGATIVE,0.9998
+137,Pretty decent experience overall,sports,563,POSITIVE,0.9999
+138,"Very disappointing, would not buy again",sports,83,NEGATIVE,0.9996
+139,This is absolutely terrible,sports,104,NEGATIVE,0.9996
+140,Totally broken on arrival,sports,384,NEGATIVE,0.9994
+141,"Amazing quality, highly recommend",gaming,310,POSITIVE,0.9999
+142,Totally broken on arrival,technology,927,NEGATIVE,0.9994
+143,"Amazing quality, highly recommend",gaming,902,POSITIVE,0.9999
+144,Exceeded my expectations completely,news,719,POSITIVE,0.9993
+145,This is absolutely terrible,news,313,NEGATIVE,0.9996
+146,This is absolutely terrible,news,240,NEGATIVE,0.9996
+147,I love this product so much!,technology,387,POSITIVE,0.9999
+148,"Amazing quality, highly recommend",technology,635,POSITIVE,0.9999
+149,Exceeded my expectations completely,gaming,78,POSITIVE,0.9993
+150,Totally broken on arrival,news,364,NEGATIVE,0.9994
+151,Not worth the money at all,sports,759,NEGATIVE,0.9998
+152,This is absolutely terrible,technology,498,NEGATIVE,0.9996
+153,This is absolutely terrible,news,309,NEGATIVE,0.9996
+154,Exceeded my expectations completely,technology,836,POSITIVE,0.9993
+155,Pretty decent experience overall,gaming,81,POSITIVE,0.9999
+156,Not worth the money at all,news,207,NEGATIVE,0.9998
+157,Worst thing I have ever bought,sports,413,NEGATIVE,0.9998
+158,"Amazing quality, highly recommend",sports,511,POSITIVE,0.9999
+159,Exceeded my expectations completely,sports,378,POSITIVE,0.9993
+160,Pretty decent experience overall,gaming,150,POSITIVE,0.9999
+161,"Amazing quality, highly recommend",sports,252,POSITIVE,0.9999
+162,I love this product so much!,sports,412,POSITIVE,0.9999
+163,I love this product so much!,sports,798,POSITIVE,0.9999
+164,"Amazing quality, highly recommend",news,921,POSITIVE,0.9999
+165,"Very disappointing, would not buy again",gaming,156,NEGATIVE,0.9996
+166,Totally broken on arrival,sports,132,NEGATIVE,0.9994
+167,"Very disappointing, would not buy again",gaming,197,NEGATIVE,0.9996
+168,Not worth the money at all,technology,973,NEGATIVE,0.9998
+169,I love this product so much!,sports,894,POSITIVE,0.9999
+170,"Very disappointing, would not buy again",sports,382,NEGATIVE,0.9996
+171,I love this product so much!,news,290,POSITIVE,0.9999
+172,"Very disappointing, would not buy again",gaming,797,NEGATIVE,0.9996
+173,Totally broken on arrival,news,453,NEGATIVE,0.9994
+174,"Very disappointing, would not buy again",news,356,NEGATIVE,0.9996
+175,Not worth the money at all,gaming,293,NEGATIVE,0.9998
+176,This is absolutely terrible,news,403,NEGATIVE,0.9996
+177,This is absolutely terrible,technology,802,NEGATIVE,0.9996
+178,"Very disappointing, would not buy again",news,570,NEGATIVE,0.9996
+179,Not worth the money at all,technology,204,NEGATIVE,0.9998
+180,Pretty decent experience overall,sports,992,POSITIVE,0.9999
+181,"Amazing quality, highly recommend",sports,408,POSITIVE,0.9999
+182,Worst thing I have ever bought,sports,511,NEGATIVE,0.9998
+183,"Amazing quality, highly recommend",technology,522,POSITIVE,0.9999
+184,This is absolutely terrible,sports,834,NEGATIVE,0.9996
+185,Totally broken on arrival,sports,1,NEGATIVE,0.9994
+186,Pretty decent experience overall,technology,835,POSITIVE,0.9999
+187,"Amazing quality, highly recommend",gaming,325,POSITIVE,0.9999
+188,"Very disappointing, would not buy again",sports,266,NEGATIVE,0.9996
+189,"Amazing quality, highly recommend",sports,893,POSITIVE,0.9999
+190,Worst thing I have ever bought,technology,360,NEGATIVE,0.9998
+191,I love this product so much!,gaming,731,POSITIVE,0.9999
+192,Pretty decent experience overall,technology,688,POSITIVE,0.9999
+193,Exceeded my expectations completely,gaming,997,POSITIVE,0.9993
+194,Exceeded my expectations completely,gaming,144,POSITIVE,0.9993
+195,"Amazing quality, highly recommend",technology,746,POSITIVE,0.9999
+196,Great customer service experience,technology,943,POSITIVE,0.9999
+197,This is absolutely terrible,sports,641,NEGATIVE,0.9996
+198,Not worth the money at all,sports,977,NEGATIVE,0.9998
+199,Worst thing I have ever bought,sports,199,NEGATIVE,0.9998
+200,Totally broken on arrival,sports,755,NEGATIVE,0.9994
+201,"Amazing quality, highly recommend",sports,730,POSITIVE,0.9999
+202,I love this product so much!,sports,79,POSITIVE,0.9999
+203,Great customer service experience,gaming,23,POSITIVE,0.9999
+204,Totally broken on arrival,gaming,208,NEGATIVE,0.9994
+205,"Very disappointing, would not buy again",technology,494,NEGATIVE,0.9996
+206,Not worth the money at all,technology,954,NEGATIVE,0.9998
+207,Worst thing I have ever bought,sports,649,NEGATIVE,0.9998
+208,I love this product so much!,gaming,122,POSITIVE,0.9999
+209,Worst thing I have ever bought,news,966,NEGATIVE,0.9998
+210,Pretty decent experience overall,gaming,686,POSITIVE,0.9999
+211,I love this product so much!,news,121,POSITIVE,0.9999
+212,Great customer service experience,gaming,771,POSITIVE,0.9999
+213,Not worth the money at all,technology,775,NEGATIVE,0.9998
+214,Pretty decent experience overall,technology,660,POSITIVE,0.9999
+215,"Amazing quality, highly recommend",news,176,POSITIVE,0.9999
+216,Worst thing I have ever bought,news,481,NEGATIVE,0.9998
+217,Exceeded my expectations completely,sports,880,POSITIVE,0.9993
+218,Totally broken on arrival,gaming,312,NEGATIVE,0.9994
+219,"Amazing quality, highly recommend",sports,964,POSITIVE,0.9999
+220,This is absolutely terrible,technology,396,NEGATIVE,0.9996
+221,This is absolutely terrible,sports,916,NEGATIVE,0.9996
+222,I love this product so much!,gaming,262,POSITIVE,0.9999
+223,"Very disappointing, would not buy again",news,547,NEGATIVE,0.9996
+224,Pretty decent experience overall,gaming,564,POSITIVE,0.9999
+225,I love this product so much!,sports,739,POSITIVE,0.9999
+226,Totally broken on arrival,technology,94,NEGATIVE,0.9994
+227,Totally broken on arrival,gaming,724,NEGATIVE,0.9994
+228,Pretty decent experience overall,sports,677,POSITIVE,0.9999
+229,This is absolutely terrible,news,322,NEGATIVE,0.9996
+230,This is absolutely terrible,sports,422,NEGATIVE,0.9996
+231,This is absolutely terrible,sports,150,NEGATIVE,0.9996
+232,"Amazing quality, highly recommend",gaming,699,POSITIVE,0.9999
+233,Pretty decent experience overall,news,529,POSITIVE,0.9999
+234,Pretty decent experience overall,news,597,POSITIVE,0.9999
+235,Totally broken on arrival,gaming,859,NEGATIVE,0.9994
+236,Great customer service experience,news,497,POSITIVE,0.9999
+237,Exceeded my expectations completely,sports,648,POSITIVE,0.9993
+238,Worst thing I have ever bought,news,426,NEGATIVE,0.9998
+239,Not worth the money at all,news,76,NEGATIVE,0.9998
+240,Totally broken on arrival,news,587,NEGATIVE,0.9994
+241,"Amazing quality, highly recommend",sports,487,POSITIVE,0.9999
+242,Exceeded my expectations completely,technology,67,POSITIVE,0.9993
+243,Great customer service experience,technology,391,POSITIVE,0.9999
+244,Not worth the money at all,sports,799,NEGATIVE,0.9998
+245,"Amazing quality, highly recommend",technology,456,POSITIVE,0.9999
+246,Worst thing I have ever bought,news,685,NEGATIVE,0.9998
+247,"Amazing quality, highly recommend",sports,795,POSITIVE,0.9999
+248,Totally broken on arrival,technology,917,NEGATIVE,0.9994
+249,"Very disappointing, would not buy again",technology,30,NEGATIVE,0.9996
+250,Totally broken on arrival,gaming,161,NEGATIVE,0.9994
+251,This is absolutely terrible,gaming,965,NEGATIVE,0.9996
+252,Totally broken on arrival,gaming,168,NEGATIVE,0.9994
+253,"Very disappointing, would not buy again",sports,548,NEGATIVE,0.9996
+254,This is absolutely terrible,technology,72,NEGATIVE,0.9996
+255,This is absolutely terrible,gaming,700,NEGATIVE,0.9996
+256,Exceeded my expectations completely,sports,663,POSITIVE,0.9993
+257,Great customer service experience,gaming,563,POSITIVE,0.9999
+258,Pretty decent experience overall,technology,111,POSITIVE,0.9999
+259,I love this product so much!,gaming,233,POSITIVE,0.9999
+260,Worst thing I have ever bought,technology,727,NEGATIVE,0.9998
+261,"Very disappointing, would not buy again",technology,551,NEGATIVE,0.9996
+262,Not worth the money at all,news,50,NEGATIVE,0.9998
+263,Not worth the money at all,sports,552,NEGATIVE,0.9998
+264,Totally broken on arrival,news,888,NEGATIVE,0.9994
+265,This is absolutely terrible,news,973,NEGATIVE,0.9996
+266,"Very disappointing, would not buy again",technology,658,NEGATIVE,0.9996
+267,Not worth the money at all,sports,689,NEGATIVE,0.9998
+268,Pretty decent experience overall,gaming,160,POSITIVE,0.9999
+269,Worst thing I have ever bought,sports,871,NEGATIVE,0.9998
+270,"Amazing quality, highly recommend",gaming,849,POSITIVE,0.9999
+271,Totally broken on arrival,technology,572,NEGATIVE,0.9994
+272,Pretty decent experience overall,sports,511,POSITIVE,0.9999
+273,I love this product so much!,gaming,376,POSITIVE,0.9999
+274,"Very disappointing, would not buy again",technology,330,NEGATIVE,0.9996
+275,"Very disappointing, would not buy again",technology,499,NEGATIVE,0.9996
+276,Great customer service experience,sports,269,POSITIVE,0.9999
+277,"Very disappointing, would not buy again",technology,377,NEGATIVE,0.9996
+278,"Amazing quality, highly recommend",technology,798,POSITIVE,0.9999
+279,Exceeded my expectations completely,gaming,376,POSITIVE,0.9993
+280,Exceeded my expectations completely,technology,455,POSITIVE,0.9993
+281,Not worth the money at all,sports,640,NEGATIVE,0.9998
+282,Pretty decent experience overall,news,485,POSITIVE,0.9999
+283,Great customer service experience,gaming,354,POSITIVE,0.9999
+284,Totally broken on arrival,gaming,198,NEGATIVE,0.9994
+285,This is absolutely terrible,news,339,NEGATIVE,0.9996
+286,Great customer service experience,sports,549,POSITIVE,0.9999
+287,"Amazing quality, highly recommend",gaming,61,POSITIVE,0.9999
+288,Not worth the money at all,gaming,810,NEGATIVE,0.9998
+289,Exceeded my expectations completely,technology,652,POSITIVE,0.9993
+290,Pretty decent experience overall,gaming,822,POSITIVE,0.9999
+291,Great customer service experience,sports,7,POSITIVE,0.9999
+292,Great customer service experience,technology,448,POSITIVE,0.9999
+293,"Amazing quality, highly recommend",sports,596,POSITIVE,0.9999
+294,"Very disappointing, would not buy again",sports,11,NEGATIVE,0.9996
+295,This is absolutely terrible,technology,793,NEGATIVE,0.9996
+296,Pretty decent experience overall,sports,448,POSITIVE,0.9999
+297,"Amazing quality, highly recommend",gaming,179,POSITIVE,0.9999
+298,"Amazing quality, highly recommend",gaming,188,POSITIVE,0.9999
+299,Totally broken on arrival,news,757,NEGATIVE,0.9994
+300,"Very disappointing, would not buy again",news,256,NEGATIVE,0.9996
+301,Great customer service experience,technology,645,POSITIVE,0.9999
+302,Totally broken on arrival,sports,580,NEGATIVE,0.9994
+303,This is absolutely terrible,sports,893,NEGATIVE,0.9996
+304,Worst thing I have ever bought,gaming,804,NEGATIVE,0.9998
+305,"Very disappointing, would not buy again",technology,43,NEGATIVE,0.9996
+306,"Very disappointing, would not buy again",technology,184,NEGATIVE,0.9996
+307,"Very disappointing, would not buy again",news,670,NEGATIVE,0.9996
+308,"Very disappointing, would not buy again",technology,516,NEGATIVE,0.9996
+309,This is absolutely terrible,technology,470,NEGATIVE,0.9996
+310,"Very disappointing, would not buy again",news,600,NEGATIVE,0.9996
+311,Not worth the money at all,gaming,375,NEGATIVE,0.9998
+312,Totally broken on arrival,news,318,NEGATIVE,0.9994
+313,"Very disappointing, would not buy again",gaming,565,NEGATIVE,0.9996
+314,Pretty decent experience overall,gaming,110,POSITIVE,0.9999
+315,"Very disappointing, would not buy again",news,842,NEGATIVE,0.9996
+316,Not worth the money at all,gaming,358,NEGATIVE,0.9998
+317,Pretty decent experience overall,technology,121,POSITIVE,0.9999
+318,Totally broken on arrival,technology,324,NEGATIVE,0.9994
+319,This is absolutely terrible,gaming,848,NEGATIVE,0.9996
+320,Worst thing I have ever bought,gaming,629,NEGATIVE,0.9998
+321,Pretty decent experience overall,sports,236,POSITIVE,0.9999
+322,Exceeded my expectations completely,gaming,60,POSITIVE,0.9993
+323,Exceeded my expectations completely,technology,482,POSITIVE,0.9993
+324,Exceeded my expectations completely,technology,835,POSITIVE,0.9993
+325,Pretty decent experience overall,technology,193,POSITIVE,0.9999
+326,Great customer service experience,gaming,953,POSITIVE,0.9999
+327,Not worth the money at all,news,929,NEGATIVE,0.9998
+328,Exceeded my expectations completely,news,950,POSITIVE,0.9993
+329,I love this product so much!,gaming,229,POSITIVE,0.9999
+330,Not worth the money at all,sports,503,NEGATIVE,0.9998
+331,Great customer service experience,news,344,POSITIVE,0.9999
+332,Exceeded my expectations completely,news,55,POSITIVE,0.9993
+333,This is absolutely terrible,technology,751,NEGATIVE,0.9996
+334,Great customer service experience,gaming,996,POSITIVE,0.9999
+335,Worst thing I have ever bought,gaming,791,NEGATIVE,0.9998
+336,Pretty decent experience overall,gaming,134,POSITIVE,0.9999
+337,Pretty decent experience overall,sports,238,POSITIVE,0.9999
+338,Great customer service experience,gaming,809,POSITIVE,0.9999
+339,This is absolutely terrible,sports,315,NEGATIVE,0.9996
+340,Not worth the money at all,news,510,NEGATIVE,0.9998
+341,"Amazing quality, highly recommend",sports,74,POSITIVE,0.9999
+342,This is absolutely terrible,news,518,NEGATIVE,0.9996
+343,"Very disappointing, would not buy again",technology,342,NEGATIVE,0.9996
+344,Pretty decent experience overall,sports,680,POSITIVE,0.9999
+345,Pretty decent experience overall,news,432,POSITIVE,0.9999
+346,"Amazing quality, highly recommend",technology,980,POSITIVE,0.9999
+347,Worst thing I have ever bought,news,116,NEGATIVE,0.9998
+348,Great customer service experience,news,221,POSITIVE,0.9999
+349,Worst thing I have ever bought,sports,267,NEGATIVE,0.9998
+350,Worst thing I have ever bought,technology,63,NEGATIVE,0.9998
+351,Pretty decent experience overall,technology,217,POSITIVE,0.9999
+352,"Amazing quality, highly recommend",technology,99,POSITIVE,0.9999
+353,Great customer service experience,gaming,323,POSITIVE,0.9999
+354,Pretty decent experience overall,sports,444,POSITIVE,0.9999
+355,This is absolutely terrible,technology,392,NEGATIVE,0.9996
+356,"Very disappointing, would not buy again",technology,159,NEGATIVE,0.9996
+357,Great customer service experience,sports,272,POSITIVE,0.9999
+358,This is absolutely terrible,gaming,568,NEGATIVE,0.9996
+359,Not worth the money at all,news,116,NEGATIVE,0.9998
+360,"Amazing quality, highly recommend",technology,281,POSITIVE,0.9999
+361,Not worth the money at all,gaming,456,NEGATIVE,0.9998
+362,Worst thing I have ever bought,gaming,519,NEGATIVE,0.9998
+363,"Amazing quality, highly recommend",gaming,712,POSITIVE,0.9999
+364,I love this product so much!,gaming,715,POSITIVE,0.9999
+365,"Very disappointing, would not buy again",sports,537,NEGATIVE,0.9996
+366,Great customer service experience,technology,523,POSITIVE,0.9999
+367,Not worth the money at all,gaming,890,NEGATIVE,0.9998
+368,"Amazing quality, highly recommend",sports,213,POSITIVE,0.9999
+369,Pretty decent experience overall,technology,563,POSITIVE,0.9999
+370,Worst thing I have ever bought,gaming,875,NEGATIVE,0.9998
+371,I love this product so much!,gaming,128,POSITIVE,0.9999
+372,"Amazing quality, highly recommend",technology,818,POSITIVE,0.9999
+373,Great customer service experience,news,727,POSITIVE,0.9999
+374,Totally broken on arrival,news,85,NEGATIVE,0.9994
+375,Great customer service experience,gaming,653,POSITIVE,0.9999
+376,Great customer service experience,news,761,POSITIVE,0.9999
+377,Pretty decent experience overall,gaming,730,POSITIVE,0.9999
+378,Exceeded my expectations completely,news,706,POSITIVE,0.9993
+379,Exceeded my expectations completely,sports,234,POSITIVE,0.9993
+380,Exceeded my expectations completely,news,868,POSITIVE,0.9993
+381,"Very disappointing, would not buy again",technology,165,NEGATIVE,0.9996
+382,I love this product so much!,news,216,POSITIVE,0.9999
+383,Pretty decent experience overall,technology,398,POSITIVE,0.9999
+384,Not worth the money at all,technology,237,NEGATIVE,0.9998
+385,Not worth the money at all,gaming,802,NEGATIVE,0.9998
+386,Worst thing I have ever bought,sports,5,NEGATIVE,0.9998
+387,"Amazing quality, highly recommend",technology,752,POSITIVE,0.9999
+388,This is absolutely terrible,gaming,25,NEGATIVE,0.9996
+389,Worst thing I have ever bought,gaming,643,NEGATIVE,0.9998
+390,Pretty decent experience overall,sports,184,POSITIVE,0.9999
+391,Pretty decent experience overall,sports,339,POSITIVE,0.9999
+392,This is absolutely terrible,news,822,NEGATIVE,0.9996
+393,Worst thing I have ever bought,gaming,563,NEGATIVE,0.9998
+394,Not worth the money at all,technology,567,NEGATIVE,0.9998
+395,Worst thing I have ever bought,technology,977,NEGATIVE,0.9998
+396,Totally broken on arrival,news,955,NEGATIVE,0.9994
+397,"Amazing quality, highly recommend",gaming,469,POSITIVE,0.9999
+398,Exceeded my expectations completely,sports,497,POSITIVE,0.9993
+399,I love this product so much!,sports,437,POSITIVE,0.9999
+400,Exceeded my expectations completely,sports,612,POSITIVE,0.9993
+401,Great customer service experience,gaming,997,POSITIVE,0.9999
+402,Exceeded my expectations completely,sports,112,POSITIVE,0.9993
+403,Exceeded my expectations completely,technology,237,POSITIVE,0.9993
+404,I love this product so much!,gaming,432,POSITIVE,0.9999
+405,Totally broken on arrival,news,976,NEGATIVE,0.9994
+406,Great customer service experience,sports,98,POSITIVE,0.9999
+407,Not worth the money at all,sports,998,NEGATIVE,0.9998
+408,Pretty decent experience overall,technology,440,POSITIVE,0.9999
+409,Pretty decent experience overall,news,756,POSITIVE,0.9999
+410,This is absolutely terrible,news,661,NEGATIVE,0.9996
+411,Totally broken on arrival,technology,322,NEGATIVE,0.9994
+412,I love this product so much!,gaming,720,POSITIVE,0.9999
+413,This is absolutely terrible,news,796,NEGATIVE,0.9996
+414,Not worth the money at all,news,585,NEGATIVE,0.9998
+415,I love this product so much!,gaming,341,POSITIVE,0.9999
+416,This is absolutely terrible,news,280,NEGATIVE,0.9996
+417,"Very disappointing, would not buy again",news,498,NEGATIVE,0.9996
+418,"Amazing quality, highly recommend",news,620,POSITIVE,0.9999
+419,Worst thing I have ever bought,news,227,NEGATIVE,0.9998
+420,Great customer service experience,gaming,550,POSITIVE,0.9999
+421,This is absolutely terrible,sports,75,NEGATIVE,0.9996
+422,"Very disappointing, would not buy again",technology,430,NEGATIVE,0.9996
+423,Totally broken on arrival,gaming,236,NEGATIVE,0.9994
+424,Totally broken on arrival,news,398,NEGATIVE,0.9994
+425,"Very disappointing, would not buy again",news,300,NEGATIVE,0.9996
+426,Not worth the money at all,sports,641,NEGATIVE,0.9998
+427,"Very disappointing, would not buy again",news,307,NEGATIVE,0.9996
+428,"Amazing quality, highly recommend",technology,627,POSITIVE,0.9999
+429,Great customer service experience,gaming,313,POSITIVE,0.9999
+430,Great customer service experience,news,786,POSITIVE,0.9999
+431,Not worth the money at all,sports,960,NEGATIVE,0.9998
+432,Not worth the money at all,sports,799,NEGATIVE,0.9998
+433,Not worth the money at all,technology,102,NEGATIVE,0.9998
+434,Great customer service experience,sports,651,POSITIVE,0.9999
+435,"Amazing quality, highly recommend",sports,445,POSITIVE,0.9999
+436,I love this product so much!,sports,813,POSITIVE,0.9999
+437,"Amazing quality, highly recommend",news,780,POSITIVE,0.9999
+438,"Very disappointing, would not buy again",gaming,549,NEGATIVE,0.9996
+439,Totally broken on arrival,technology,347,NEGATIVE,0.9994
+440,Great customer service experience,gaming,525,POSITIVE,0.9999
+441,"Amazing quality, highly recommend",sports,343,POSITIVE,0.9999
+442,Worst thing I have ever bought,sports,678,NEGATIVE,0.9998
+443,Exceeded my expectations completely,news,532,POSITIVE,0.9993
+444,Worst thing I have ever bought,news,225,NEGATIVE,0.9998
+445,I love this product so much!,sports,308,POSITIVE,0.9999
+446,Pretty decent experience overall,news,816,POSITIVE,0.9999
+447,Great customer service experience,gaming,108,POSITIVE,0.9999
+448,I love this product so much!,sports,811,POSITIVE,0.9999
+449,Not worth the money at all,technology,812,NEGATIVE,0.9998
+450,Great customer service experience,gaming,143,POSITIVE,0.9999
+451,Worst thing I have ever bought,sports,67,NEGATIVE,0.9998
+452,Worst thing I have ever bought,news,439,NEGATIVE,0.9998
+453,Pretty decent experience overall,gaming,635,POSITIVE,0.9999
+454,Not worth the money at all,technology,961,NEGATIVE,0.9998
+455,"Amazing quality, highly recommend",news,319,POSITIVE,0.9999
+456,I love this product so much!,sports,426,POSITIVE,0.9999
+457,Pretty decent experience overall,gaming,56,POSITIVE,0.9999
+458,Totally broken on arrival,sports,494,NEGATIVE,0.9994
+459,Pretty decent experience overall,news,293,POSITIVE,0.9999
+460,Exceeded my expectations completely,gaming,358,POSITIVE,0.9993
+461,Exceeded my expectations completely,technology,53,POSITIVE,0.9993
+462,Exceeded my expectations completely,technology,996,POSITIVE,0.9993
+463,I love this product so much!,gaming,299,POSITIVE,0.9999
+464,Totally broken on arrival,sports,59,NEGATIVE,0.9994
+465,"Very disappointing, would not buy again",gaming,99,NEGATIVE,0.9996
+466,Totally broken on arrival,news,91,NEGATIVE,0.9994
+467,Pretty decent experience overall,technology,130,POSITIVE,0.9999
+468,I love this product so much!,technology,829,POSITIVE,0.9999
+469,Totally broken on arrival,news,343,NEGATIVE,0.9994
+470,I love this product so much!,technology,818,POSITIVE,0.9999
+471,Great customer service experience,gaming,919,POSITIVE,0.9999
+472,"Very disappointing, would not buy again",news,40,NEGATIVE,0.9996
+473,Totally broken on arrival,sports,8,NEGATIVE,0.9994
+474,Great customer service experience,technology,434,POSITIVE,0.9999
+475,Great customer service experience,gaming,865,POSITIVE,0.9999
+476,Pretty decent experience overall,news,119,POSITIVE,0.9999
+477,Great customer service experience,sports,2,POSITIVE,0.9999
+478,This is absolutely terrible,sports,629,NEGATIVE,0.9996
+479,Great customer service experience,sports,521,POSITIVE,0.9999
+480,"Amazing quality, highly recommend",technology,21,POSITIVE,0.9999
+481,Worst thing I have ever bought,technology,145,NEGATIVE,0.9998
+482,Pretty decent experience overall,gaming,36,POSITIVE,0.9999
+483,This is absolutely terrible,news,474,NEGATIVE,0.9996
+484,Worst thing I have ever bought,news,435,NEGATIVE,0.9998
+485,I love this product so much!,gaming,893,POSITIVE,0.9999
+486,Pretty decent experience overall,sports,58,POSITIVE,0.9999
+487,Great customer service experience,technology,791,POSITIVE,0.9999
+488,Not worth the money at all,gaming,735,NEGATIVE,0.9998
+489,Great customer service experience,sports,434,POSITIVE,0.9999
+490,This is absolutely terrible,news,461,NEGATIVE,0.9996
+491,I love this product so much!,gaming,863,POSITIVE,0.9999
+492,"Very disappointing, would not buy again",gaming,563,NEGATIVE,0.9996
+493,Not worth the money at all,technology,54,NEGATIVE,0.9998
+494,Exceeded my expectations completely,news,952,POSITIVE,0.9993
+495,Exceeded my expectations completely,news,942,POSITIVE,0.9993
+496,I love this product so much!,sports,738,POSITIVE,0.9999
+497,Not worth the money at all,technology,534,NEGATIVE,0.9998
+498,Not worth the money at all,sports,765,NEGATIVE,0.9998
+499,Worst thing I have ever bought,gaming,712,NEGATIVE,0.9998
